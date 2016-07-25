@@ -1,2 +1,2 @@
 # Prototype-Library-System
-A prototype Univeristy Library System.
+A Univeristy Library System Prototype
